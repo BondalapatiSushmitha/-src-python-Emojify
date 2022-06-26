@@ -1,1 +1,8 @@
-# -src-python-Emojify
+# src-python-Emojify
+angry
+disgusted
+fearfull
+happy
+sad
+neutral 
+surprised
